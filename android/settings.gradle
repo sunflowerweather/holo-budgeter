@@ -8,7 +8,7 @@ pluginManagement {
     }()
 
     includeBuild("$flutterSdkPath/packages/flutter_tools/gradle")
-
+    flutter doctor
     repositories {
         google()
         mavenCentral()
