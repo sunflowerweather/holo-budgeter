@@ -183,7 +183,7 @@ The same file can be imported later to restore your data.
 * [Flutter](https://flutter.dev/)
 * Dart
 * C++ / CMake
-* Apache License 2.0
+* BSD 3-Clause License
 
 ## Why?
 
@@ -193,4 +193,4 @@ Holo Budgeter started as a personal project and is designed to keep everyday exp
 
 ## License
 
-Licensed under the Apache License 2.0.
+Licensed under the BSD 3-Clause License.
