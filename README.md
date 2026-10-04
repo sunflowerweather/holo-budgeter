@@ -4,6 +4,17 @@ A simple offline budget and expense tracking app built with Flutter.
 
 No account, ads, tracking, or cloud sync. Transactions are stored locally on the device.
 
+<p align="center">
+  <img src="screenshots/holobudgeter_preview_1.jpg" width="30%">
+  <img src="screenshots/holobudgeter_preview_2.jpg" width="30%">
+  <img src="screenshots/holobudgeter_preview_3.jpg" width="30%">
+</p>
+
+## Downloads
+
+- [Android - v1.0](https://github.com/sunflowerweather/holo-notes/releases/tag/v1.0-android)
+- [Windows - v1.0](https://github.com/sunflowerweather/holo-notes/releases/tag/v1.0-windows)
+
 ## Features
 
 ### Offline
